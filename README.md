@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Пүрэв Баасанхүү 19B1NUM1461
-- МУИС-ХШУИС Программ хангамж
+- 🧑‍🎓МУИС-ХШУИС Программ хангамaж
 <!---
 baasankhuu123/baasankhuu123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
