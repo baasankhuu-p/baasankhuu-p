@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baasankhuu123
+- 👋 Hi, I’m @baasankhuu-p
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,6 +6,6 @@
 - Пүрэв Баасанхүү 19B1NUM1461
 - 🧑‍🎓МУИС-ХШУИС Программ хангамж
 <!---
-baasankhuu123/baasankhuu123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+baasankhuu-p/baasankhuu-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
