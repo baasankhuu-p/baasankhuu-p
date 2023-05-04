@@ -9,8 +9,11 @@
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
 <hr>
 # Skills Icons
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,flutter,nodejs,expressjs&perline=3)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,flutter,nodejs,expressjs" />
+  </a>
+</p>
   
 ## 💖 Support the Project
 
