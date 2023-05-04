@@ -6,16 +6,9 @@
 - Baasankhuu P
 - 🧑‍🎓National University of Applied Sciences.
 
-<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
-<hr>
-
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
-
-<h3>NOTE: Comming soon.<h3>
-
-# Specifying Icons
+<hr>
+# Skills Icons
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,flutter,nodejs,expressjs&perline=3)](https://skillicons.dev)
 
   
