@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @baasankhuu.p
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- Baasankhuu P
+- 👋 Hello, I'm @baasankhuu.p
+- 👀 I am interested in becoming a mern stack
+- 🌱 I am currently studying at the National University of Applied Sciences
+- 💞️ I want to work in a software company
 - 🧑‍🎓National University of Applied Sciences.
 
 <h2 align="center">Soft Skills⚡⚡</h2>
