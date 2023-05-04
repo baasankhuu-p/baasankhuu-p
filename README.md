@@ -8,7 +8,7 @@
 
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
 <hr>
-# Skills Icons
+## Skills Icons
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,flutter,nodejs,expressjs" />
