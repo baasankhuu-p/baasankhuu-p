@@ -9,13 +9,16 @@
 <h2 align="center">Soft Skills⚡⚡</h2>
 <hr>
 <h3>Back-end</h3>
+<hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,react,html,tailwind,nodejs,javascript,expressjs,github,vercel,mongodb,postgresql,postman,cpp,cs,php" />
     
   </a>
 </p>
+<hr>
 <h3>Front-end</h3>
+<hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,react,html,tailwind,nodejs,javascript,expressjs,github,vercel,mongodb,postgresql,postman,cpp,cs,php" />
