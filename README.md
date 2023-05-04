@@ -6,7 +6,7 @@
 - Baasankhuu P
 - 🧑‍🎓National University of Applied Sciences.
 
-<h3 align="center">Powered by Cloudflare Workers⚡</h3>
+<h3 align="center">Soft Skills⚡⚡</h3>
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
