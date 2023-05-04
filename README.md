@@ -6,13 +6,11 @@
 - Baasankhuu P
 - 🧑‍🎓National University of Applied Sciences.
 
-<h3 align="center">Powered by Cloudflare Workers ⚡</h3>
+<h3 align="center">Powered by Cloudflare Workers⚡</h3>
 <hr>
-## Skills Icons
-<h2>Skills Icons ⚡</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,flutter,nodejs,expressjs" />
+    <img src="https://skillicons.dev/icons?i=azure,react,github,vercel,tailwind,nodejs,expressjs,javascript" />
   </a>
 </p>
   
