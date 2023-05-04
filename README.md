@@ -10,7 +10,7 @@
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,react,github,vercel,tailwind,nodejs,expressjs,javascript" />
+    <img src="https://skillicons.dev/icons?i=azure,react,html,tailwind,nodejs,expressjs,javascript,github,vercel,mongodb,mongoose,postgresql,mssql,postman" />
   </a>
 </p>
   
