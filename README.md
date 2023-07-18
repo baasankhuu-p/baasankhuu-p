@@ -4,38 +4,40 @@
 - 💞️ I want to work in a software company
 - 🧑‍🎓National University of Applied Sciences.
 
-<h1 align="center">⚡⚡</h1>
+<h1 align="center">⚡About me⚡</h1>
 <p>Hello, good day to all of you who are reading my CV. My name is Baasankhu with Purev surname. Born in Mongolia. In 2019-2023, I graduated from the National University  of Mongolia. University majoring in "Software".
 
 "Software"
 The following courses were evaluated within the content course./0-100/
-Algorithm base -> 93%
-Data structure /C/ >95%
-Windows Programming /C#/ -> 95%
-Web Programming /HTML, CSS, Javascript, NodeJS/ -> 90%
-Java technology/Java/ ->100%
-Visual Programming/JavaFX/->100%
-C programming language /C, C++/ ->83%
-Database Programming /MSSQL, Postresql, SQL/ ->93%
-Self taught
+  - Algorithm base -> 93%
+  - Data structure /C/ >95%
+  - Windows Programming /C#/ -> 95%
+  - Web Programming /HTML, CSS, Javascript, NodeJS/ -> 90%
+  - Java technology/Java/ ->100%
+  - Visual Programming/JavaFX/->100%
+  - C programming language /C, C++/ ->83%
+  - Database Programming /MSSQL, Postresql, SQL/ ->93%
 
 Back end:
-C# https://dev.azure.com/19B1NUM1461
-NodeJs Express
+  - C# https://dev.azure.com/19B1NUM1461
+  - NodeJs Express
 
 Database
-Mongodb, Postgresql, Mssql, MySql
+  - Mongodb
+  - Postgresql
+  - Mssql
+  - MySql
 
 Front end:
-- ReactJs
-- NextJS,
-- Tailwind
-- Php
+  - ReactJs
+  - NextJS,
+  - Tailwind
+  - Php
 
 E-LEARNING
-Basic sites for that language. Documents are often read
-Challenge Test-> https://www.w3profile.com/baaskaa_software_engineer
-Document writing and 1234.mn
+  Basic sites for that language. Documents are often read
+  Challenge Test-> https://www.w3profile.com/baaskaa_software_engineer
+  Document writing and 1234.mn
 </p>
 <h2 align="center">Soft Skills⚡⚡</h2>
 <p align="center">
