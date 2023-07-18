@@ -15,6 +15,14 @@
 <h5>
 "Software"
 The following courses were evaluated within the content course./0-100/
+  <ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ol>
   - Algorithm base -> 93%
   - Data structure /C/ >95%
   - Windows Programming /C#/ -> 95%
