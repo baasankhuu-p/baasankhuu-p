@@ -5,6 +5,12 @@
 - 🧑‍🎓National University of Applied Sciences.
 
 <h1 align="center">⚡About me⚡</h1>
+<h2 align="center">⚡⚡</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,react,nextjs,html,tailwind,nodejs,javascript,typescript,expressjs,github,vercel,mongodb,postgresql,postman,cpp,cs,php" />
+  </a>
+</p>
 <p>Hello, good day to all of you who are reading my CV. My name is Baasankhu with Purev surname. Born in Mongolia. In 2019-2023, I graduated from the National University  of Mongolia. University majoring in "Software".
 
 "Software"
@@ -38,12 +44,6 @@ E-LEARNING
   Basic sites for that language. Documents are often read
   Challenge Test-> https://www.w3profile.com/baaskaa_software_engineer
   Document writing and 1234.mn
-</p>
-<h2 align="center">Soft Skills⚡⚡</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,react,nextjs,html,tailwind,nodejs,javascript,typescript,expressjs,github,vercel,mongodb,postgresql,postman,cpp,cs,php" />
-  </a>
 </p>
   
 ## 💖 Support the Project
