@@ -12,7 +12,7 @@
 </p>
 <h4>  Hello, good day to all of you who are reading my CV. My name is Baasankhu with Purev surname. Born in Mongolia. In 2019-2023, I graduated from the National University  of Mongolia. University majoring in "Software".
 </h4>
-<p>
+<h5>
 "Software"
 The following courses were evaluated within the content course./0-100/
   - Algorithm base -> 93%
@@ -44,7 +44,7 @@ E-LEARNING
   Basic sites for that language. Documents are often read
   Challenge Test-> https://www.w3profile.com/baaskaa_software_engineer
   Document writing and 1234.mn
-</p>
+</h5>
   
 ## 💖 Support the Project
 
