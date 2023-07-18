@@ -5,38 +5,37 @@
 - 🧑‍🎓National University of Applied Sciences.
 
 <h1 align="center">⚡⚡</h1>
-<p>
-  Сайн байна уу, миний CV-г уншиж байгаа та бүхэндээ энэ өдрийн мэнд хүргэе. Намайг Пүрэв овогтой Баасанхүү гэдэг. Монгол улсад төрсөн. Би 2019-2023 онд Монгол Улсын Их Сургуулийн  "Програм хангамж" мэргэжлээр төгссөн.
+<p>Hello, good day to all of you who are reading my CV. My name is Baasankhu with Purev surname. Born in Mongolia. In 2019-2023, I graduated from the National University  of Mongolia. University majoring in "Software".
 
-"Програм хангамж"
-Агуулгын хичээлийн хүрээнд дараах хичээлүүдийг үнэлэв./0-100/
-Алгоритмын суурь -> 93%
-Өгөгдлийн бүтэц /С/ >95%
-Windows програмчлал /C#/ -> 95%
-Вэб програмчлал /HTML, CSS, Javascript, NodeJS/ -> 90%
-Java технологи/Java/ ->100%
-Визуал програмчлал/JavaFX/->100%
-C програмчлалын хэл /C, C++/ ->83%
-Өгөгдлийн сангийн програмчлал /MSSQL, Postresql, SQL/ ->93%
-Өөрөө сургасан
+"Software"
+The following courses were evaluated within the content course./0-100/
+Algorithm base -> 93%
+Data structure /C/ >95%
+Windows Programming /C#/ -> 95%
+Web Programming /HTML, CSS, Javascript, NodeJS/ -> 90%
+Java technology/Java/ ->100%
+Visual Programming/JavaFX/->100%
+C programming language /C, C++/ ->83%
+Database Programming /MSSQL, Postresql, SQL/ ->93%
+Self taught
 
-Арын төгсгөл:
+Back end:
 C# https://dev.azure.com/19B1NUM1461
-NodeJs Expres
+NodeJs Express
 
-Өгөгдлийн сан
+Database
 Mongodb, Postgresql, Mssql, MySql
 
-Frontend:
+Front end:
 - ReactJs
-- NextJS, 
+- NextJS,
 - Tailwind
 - Php
 
-ЦАХИМ СУРАЛЦАХ
-Тухайн хэлний үндсэн сайтууд. Баримт бичгийг ихэвчлэн уншдаг
-Сорилт тест-> https://www.w3profile.com/baaskaa_software_engineer
-Баримт бичих болон 1234.mn 
+E-LEARNING
+Basic sites for that language. Documents are often read
+Challenge Test-> https://www.w3profile.com/baaskaa_software_engineer
+Document writing and 1234.mn
 </p>
 <h2 align="center">Soft Skills⚡⚡</h2>
 <p align="center">
