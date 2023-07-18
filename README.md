@@ -20,5 +20,7 @@
 
 To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request! -->
 ## My Development Projects
+
+- https://aws-omega.vercel.app/
 - https://aws-community.vercel.app/
 - https://baasankhuu-p.github.io/MyProject/MyProjectHtml/
