@@ -15,38 +15,36 @@
 <h5>
 "Software"
 The following courses were evaluated within the content course./0-100/
-  <ol>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ol>
-  - Algorithm base -> 93%
-  - Data structure /C/ >95%
-  - Windows Programming /C#/ -> 95%
-  - Web Programming /HTML, CSS, Javascript, NodeJS/ -> 90%
-  - Java technology/Java/ ->100%
-  - Visual Programming/JavaFX/->100%
-  - C programming language /C, C++/ ->83%
-  - Database Programming /MSSQL, Postresql, SQL/ ->93%
+  <ul>
+    <li>Algorithm base -> 93%</li>
+    <li>Data structure /C/ >95%</li>
+    <li>Windows Programming /C#/ -> 95%</li>
+    <li>Web Programming /HTML, CSS, Javascript, NodeJS/ -> 90%</li>
+    <li>Java technology/Java/ ->100%</li>
+    <li>Visual Programming/JavaFX/->100%</li>
+    <li>C programming language /C, C++/ ->83%</li>
+    <li>Database Programming /MSSQL, Postresql, SQL/ ->93%</li>
+  </ul>
 
 Back end:
   - C# https://dev.azure.com/19B1NUM1461
   - NodeJs Express
 
 Database
-  - Mongodb
-  - Postgresql
-  - Mssql
-  - MySql
+<ol>
+  <li>Mongodb</li>
+  <li>Postgresql</li>
+  <li>Mssql</li>
+  <li>Mysql</li>
+</ol>
 
-Front end:
-  - ReactJs
-  - NextJS,
-  - Tailwind
-  - Php
+Front end: /html,css,javascript .etc/
+<ol>
+  <li>ReactJs/Reac Native</li>
+  <li>NextJS</li>
+  <li>Tailwind</li>
+  <li>Php</li>
+</ol>
 
 E-LEARNING
   Basic sites for that language. Documents are often read
