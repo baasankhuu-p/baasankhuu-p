@@ -5,13 +5,12 @@
 - 🧑‍🎓National University of Applied Sciences.
 
 <h1 align="center">⚡About me⚡</h1>
-<h2 align="center">⚡⚡</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,react,nextjs,html,tailwind,nodejs,javascript,typescript,expressjs,github,vercel,mongodb,postgresql,postman,cpp,cs,php" />
   </a>
 </p>
-<p>Hello, good day to all of you who are reading my CV. My name is Baasankhu with Purev surname. Born in Mongolia. In 2019-2023, I graduated from the National University  of Mongolia. University majoring in "Software".
+<h4>Hello, good day to all of you who are reading my CV. My name is Baasankhu with Purev surname. Born in Mongolia. In 2019-2023, I graduated from the National University  of Mongolia. University majoring in "Software".
 
 "Software"
 The following courses were evaluated within the content course./0-100/
@@ -59,3 +58,4 @@ To support the project directly, feel free to open issues for icon suggestions, 
 - https://2023.awsmongolia.com/
 - https://srve-ashen.vercel.app/active/cljj9ybpi006inu08pfrm6mvi
 - https://baasankhuu-p.github.io/MyProject/MyProjectHtml/
+</h4>
