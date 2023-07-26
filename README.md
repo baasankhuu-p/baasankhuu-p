@@ -61,7 +61,7 @@ E-LEARNING
 To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request! -->
 ## My Development Projects
 
-- [https://aws-omega.vercel.app/](https://events.awsmongolia.com/)
+- https://events.awsmongolia.com/
 - https://2023.awsmongolia.com/
 - https://srve-ashen.vercel.app/active/cljj9ybpi006inu08pfrm6mvi
 - https://baasankhuu-p.github.io/MyProject/MyProjectHtml/
