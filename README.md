@@ -61,7 +61,9 @@ E-LEARNING
 To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request! -->
 ## My Development Projects
 
-- https://events.awsmongolia.com/
-- https://2023.awsmongolia.com/
+- https://e-uvs.itwork.mn/  Tailwind | NextJS | Typescrip |Vercel | Mongodb | Digital Ocean (comming soon)
+- https://itwork.mn/  Tailwind | NextJS | Vercel
+- https://events.awsmongolia.com/  Tailwind | NextJS | Vercel
+- https://2023.awsmongolia.com/    Tailwind | NextJS | Vercel
 - https://srve-ashen.vercel.app/active/cljj9ybpi006inu08pfrm6mvi
-- https://baasankhuu-p.github.io/MyProject/MyProjectHtml/
+- https://baasankhuu-p.github.io/MyProject/MyProjectHtml/    HTML | CSS | JAVASCRIPT
