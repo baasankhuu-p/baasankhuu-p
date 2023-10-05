@@ -65,5 +65,9 @@ To support the project directly, feel free to open issues for icon suggestions, 
 - https://itwork.mn/  Tailwind | NextJS | Vercel
 - https://events.awsmongolia.com/  Tailwind | NextJS | Vercel
 - https://2023.awsmongolia.com/    Tailwind | NextJS | Vercel
-- https://srve-ashen.vercel.app/active/cljj9ybpi006inu08pfrm6mvi
 - https://baasankhuu-p.github.io/MyProject/MyProjectHtml/    HTML | CSS | JAVASCRIPT
+  
+## Developed together
+
+- https://chef-onboarding.vercel.app Tailwind | NextJS | Typescrip | Vercel | Postgresql
+- https://srve-ashen.vercel.app/active/cljj9ybpi006inu08pfrm6mvi
