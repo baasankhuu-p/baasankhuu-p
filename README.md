@@ -1,3 +1,4 @@
+Та DIGITAL OCEAN 200$ үнэгүй ашиглах эрхийг авахыг хүсвэл энхүү линкдээр дарж бүртгүүлсэн байх шаардлагатай- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=886ad30757e7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 - 👋 Hello, I'm @baasankhuu.p
 - 👀 I am interested in becoming a mern stack
 - 🌱 I am currently studying at the National University of Applied Sciences
