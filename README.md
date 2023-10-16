@@ -30,7 +30,8 @@ The following courses were evaluated within the content course./0-100/
 
 Back end:
   - C# https://dev.azure.com/19B1NUM1461
-  - NodeJs Express
+  - NodeJs/Express
+  - GoLang
 
 Database
 <ol>
@@ -54,7 +55,7 @@ E-LEARNING
   Document writing and 1234.mn
 </h5>
   
-## 💖 Support the Project
+## 💖 Support the **Project**
 
 <!-- Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
 
