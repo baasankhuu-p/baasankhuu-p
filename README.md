@@ -14,7 +14,7 @@
 <h1 align="center">⚡About me⚡</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,storybook,azure,react,nextjs,html,tailwind,nodejs,javascript,typescript,expressjs,github,vercel,mongodb,postgresql,postman,cpp,cs,php" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,react,nextjs,html,tailwind,nodejs,javascript,typescript,expressjs,github,vercel,mongodb,postgresql,postman,cpp,cs,php" />
   </a>
 </p>
 <h4>  Hello, good day to all of you who are reading my CV. My name is Baasankhu with Purev surname. Born in Mongolia. In 2019-2023, I graduated from the National University  of Mongolia. University majoring in "Software".
