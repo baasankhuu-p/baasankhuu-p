@@ -1,4 +1,4 @@
-<h1>Welcome To Baaskaa-SE **https://baaskaa-se.vercel.app**</h1> <br/>
+<h1 align="center">⚡Welcome To Baaskaa-SE <bold>https://baaskaa-se.vercel.app</bold>⚡</h1> <br/>
 Та DIGITAL OCEAN 200$ үнэгүй ашиглах эрхийг ашиглахыг хүсвэл энэ линк дээр дарна уу <br/>
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=886ad30757e7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 - 👋 Hello, I'm @baasankhuu.p
