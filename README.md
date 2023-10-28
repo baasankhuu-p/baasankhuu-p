@@ -14,23 +14,23 @@
 <h1 align="center">⚡About me⚡</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,react,nextjs,html,tailwind,nodejs,javascript,typescript,expressjs,github,vercel,mongodb,postgresql,postman,cpp,cs,php" />
+    <img src="https://skillicons.dev/icons?i=aws,storybook,azure,react,nextjs,html,tailwind,nodejs,javascript,typescript,expressjs,github,vercel,mongodb,postgresql,postman,cpp,cs,php" />
   </a>
 </p>
 <h4>  Hello, good day to all of you who are reading my CV. My name is Baasankhu with Purev surname. Born in Mongolia. In 2019-2023, I graduated from the National University  of Mongolia. University majoring in "Software".
 </h4>
 <h5>
 "Software"
-The following courses were evaluated within the content course./0-100/
+The following courses were evaluated within the content course.
   <ul>
-    <li>Algorithm base -> 93%</li>
-    <li>Data structure /C/ >95%</li>
-    <li>Windows Programming /C#/ -> 95%</li>
-    <li>Web Programming /HTML, CSS, Javascript, NodeJS/ -> 90%</li>
-    <li>Java technology/Java/ ->100%</li>
-    <li>Visual Programming/JavaFX/->100%</li>
-    <li>C programming language /C, C++/ ->83%</li>
-    <li>Database Programming /MSSQL, Postresql, SQL/ ->93%</li>
+    <li>Algorithm base </li>
+    <li>Data structure /C/ </li>
+    <li>Windows Programming /C#/</li>
+    <li>Web Programming /HTML, CSS, Javascript, NodeJS/</li>
+    <li>Java technology/Java/</li>
+    <li>Visual Programming/JavaFX/</li>
+    <li>C programming language /C, C++/ </li>
+    <li>Database Programming /MSSQL, Postresql, SQL/</li>
   </ul>
 
 Back end:
