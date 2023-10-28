@@ -1,14 +1,15 @@
-<h1 align="center">⚡<a href="https://baaskaa-se.vercel.app" target="_blank">Welcome To Baaskaa-SE</a>⚡</h1> <br/>
-<a href="https://baaskaa-se.vercel.app"><img src="https://baaskaa-se.vercel.app/landing-page.png"/></a>
 
-
-Та DIGITAL OCEAN 200$ үнэгүй ашиглах эрхийг ашиглахыг хүсвэл энэ линк дээр дарна уу <br/>
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=886ad30757e7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 - 👋 Hello, I'm @baasankhuu.p
 - 👀 I am interested in becoming a mern stack
 - 🌱 I am currently studying at the National University of Applied Sciences
 - 💞️ I want to work in a software company
 - 🧑‍🎓National University of Applied Sciences.
+- 
+<h1 align="center">⚡<a href="https://baaskaa-se.vercel.app" target="_blank">Welcome To Baaskaa-SE</a>⚡</h1> <br/>
+<a href="https://baaskaa-se.vercel.app"><img src="https://baaskaa-se.vercel.app/landing-page.png"/></a>
+
+Та DIGITAL OCEAN 200$ үнэгүй ашиглах эрхийг ашиглахыг хүсвэл энэ линк дээр дарна уу <br/>
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=886ad30757e7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <h1 align="center">⚡About me⚡</h1>
 <p align="center">
