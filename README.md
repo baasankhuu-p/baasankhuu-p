@@ -1,9 +1,8 @@
 
-- 👋 Hello, I'm @baasankhuu.p
-- 👀 I am interested in becoming a mern stack
-- 🌱 I am currently studying at the National University of Applied Sciences
-- 💞️ I want to work in a software company
-- 🧑‍🎓National University of Applied Sciences.
+- 👋 Hi, I'm @baasankhuu.p
+- 👀 I am interested in development in MERN STACK
+- 💞️ I work as a developer at Fibo Cloud software company
+- 🧑‍🎓 Graduated from Mongolian University of Applied Sciences with a bachelor's degree
 
 <h1 align="center">⚡About me⚡</h1>
 <p align="center">
