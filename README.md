@@ -61,13 +61,12 @@ E-LEARNING
 </h5>
   
 ## 💖 My Development Projects
-
 - https://e-uvs.itwork.mn/  Tailwind | NextJS | Typescrip |Vercel | Mongodb | Digital Ocean (comming soon)
 - https://itwork.mn/  Tailwind | NextJS | Vercel
 - https://events.awsmongolia.com/  Tailwind | NextJS | Vercel
 - https://2023.awsmongolia.com/    Tailwind | NextJS | Vercel
 - https://baasankhuu-p.github.io/MyProject/MyProjectHtml/    HTML | CSS | JAVASCRIPT
-  
+
 ## Developed together
 
 - https://chef-onboarding.vercel.app Tailwind | NextJS | Typescrip | Vercel | Postgresql
